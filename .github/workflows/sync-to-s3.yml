@@ -14,7 +14,7 @@ permissions:
 jobs:
   upload:
     runs-on: ubuntu-latest
-    environment: production   # <-- MUST match your GitHub Environment name
+    environment: ENVs
 
     steps:
       - name: Checkout
