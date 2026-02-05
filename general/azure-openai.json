@@ -3573,5 +3573,9 @@
   "gpt-4o-transcribe-diarize": {
     "type": { "primary": "audio" },
     "disablePlayground": true
+  },
+  "gpt-5.3-codex": {
+    "disablePlayground": true,
+    "type": { "primary": "text" }
   }
 }
